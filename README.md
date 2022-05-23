@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Augusto</h1>
 <h3 align="center">Java Developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslimajv)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslimajv&count_private=false)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslimajv&show_icons=true&theme=dracula)
 
 <p align="left">
